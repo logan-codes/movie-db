@@ -38,7 +38,19 @@ const cargarPeliculas = async() => {
                 peliculas += ` 
                 
                     
-                        <div class="col-4" >
+
+
+                    <div class="card mb-3" style="max-width: 540px;">
+                        <div class="row g-0">
+                            <div class="col-md-4">
+                                
+                            </div>
+                        </div>
+                    
+                    </div>        
+
+
+                        <div class="col-12" >
 
                             <div class="card mt-3" style="background-color: red">
                                 <div class="card-body">
